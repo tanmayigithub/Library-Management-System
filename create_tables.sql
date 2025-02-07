@@ -6,7 +6,7 @@ CREATE TABLE Books (
   Title varchar(100),
   Author VARCHAR(100),
   ISBN varchar(100),
-  Genre VARCHAR(50),
+  Genre VARCHAR(50), 
   Publisher VARCHAR(50),
   Publication_Date DATE
 );
